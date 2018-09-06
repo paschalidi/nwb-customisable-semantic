@@ -1,3 +1,3 @@
 # nwb-customisable-semantic
 
-Describe nwb-customisable-semantic here.
+a simple example for nwb-customisable-semantic
