@@ -1,8 +1,7 @@
-import './index.css'
+import '../semantic/dist/semantic.min.css';
 
 import React from 'react'
 import {render} from 'react-dom'
-
 import App from './App'
 
 render(<App/>, document.querySelector('#app'))
