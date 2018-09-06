@@ -5,4 +5,5 @@ npm-debug.log*
 .idea
 
  semantic/*
-!semantic/dist/
+!/semantic/dist/*
+!/semantic/src/themes/vivy/*
