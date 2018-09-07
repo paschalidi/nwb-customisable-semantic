@@ -7,5 +7,5 @@ npm-debug.log*
  semantic/*
 !/semantic/dist/*
 !/semantic/src/themes/vivy/*
-!/semantic/src/theme.config
+!/semantic/src/theme.config*
 !/semantic/gulpfile.js
